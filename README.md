@@ -1,5 +1,5 @@
 # 4-Cherry-Tree-Collection
-Collection repository for digital text resources 
+This collection consists of 4 digital resources (websites) of metadata standards created from 1994 to present.
 
 -[Categories for the Collection of Works of Art](https://www.getty.edu/publications/categories-description-works-art/)
 
